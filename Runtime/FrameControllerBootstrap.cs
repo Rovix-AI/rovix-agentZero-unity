@@ -6,6 +6,7 @@ public static class FrameControllerBootstrap
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
     private static void StartSDK()
     {
+#if ALTTESTER
         if (_initialized)
             return;
 
@@ -14,5 +15,6 @@ public static class FrameControllerBootstrap
         var go = new GameObject("FrameController");
         Object.DontDestroyOnLoad(go);
         go.AddComponent<frameController>();
+#endif
     }
 }
