@@ -1,0 +1,19 @@
+{
+  "name": "com.rovix.agentzero",
+  "displayName": "Agent Zero - Rovix AI",
+  "version": "0.1.1",
+  "unity": "2020.3",
+  "unityRelease": "2f1",
+  "dependencies": {
+    "com.unity.editorcoroutines": "1.0.0"
+  },
+  "description": "SDK for Rovix AI Agent Zero - to be used with Rovix AI AgentOne for running the game",
+  "author": {
+    "name": "Rovix Digital",
+    "url": "http://www.rovix.digital",
+    "email": "support@rovix.digital"
+  },
+  "changelogUrl": "https://example.com/changelog.html",
+  "documentationUrl": "https://example.com/",
+  "licensesUrl": "https://example.com/licensing.html"
+}
