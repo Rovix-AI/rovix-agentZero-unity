@@ -1,7 +1,7 @@
 {
   "name": "com.rovix.agentzero",
   "displayName": "Agent Zero - Rovix AI",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2020.3",
   "unityRelease": "2f1",
   "dependencies": {
