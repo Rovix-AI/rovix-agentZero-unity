@@ -7,7 +7,7 @@ using StackExchange.Redis;
 using System;
 using System.Text;
 
-public class FrameController : MonoBehaviour
+public class frameController : MonoBehaviour
 {
     private enum FrameState
     {
