@@ -37,6 +37,12 @@ Generate and AltTester Build
 
 ![Click Build Only](image-1.png)
 
+
+Install NuGet for Unity
+https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
+
+in This, open its manager and install Redis
+
 Share the build @ ashwani.quark@gmail.com
  or support@rovix.digital
 
