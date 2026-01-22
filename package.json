@@ -1,7 +1,7 @@
 {
   "name": "com.rovix.agentzero",
   "displayName": "Agent Zero - Rovix AI",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "unity": "2020.3",
   "unityRelease": "2f1",
   "dependencies": {
@@ -13,7 +13,7 @@
     "url": "http://www.rovix.digital",
     "email": "support@rovix.digital"
   },
-  "changelogUrl": "https://example.com/changelog.html",
-  "documentationUrl": "https://example.com/",
-  "licensesUrl": "https://example.com/licensing.html"
+  "changelogUrl": "https://github.com/Rovix-AI/rovix-agentZero-unity/releases",
+  "documentationUrl": "https://github.com/Rovix-AI/rovix-agentZero-unity",
+  "licensesUrl": "https://github.com/Rovix-AI/rovix-agentZero-unity"
 }
