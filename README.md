@@ -18,7 +18,7 @@ To add Agent Zero to your Unity project:
 2. Click the `+` icon and select **Add package from git URL...**.
 3. Enter the following URL:
    ```
-   https://github.com/Rovix-AI/rovix-agentZero-unity.git#v0.2.0
+   https://github.com/Rovix-AI/rovix-agentZero-unity.git#v0.2.1
    ```
 
 ### Dependencies
